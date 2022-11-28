@@ -1,0 +1,15 @@
+
+.idea/*
+src/main/resources/*
+target/*
+
+*.class
+
+*.jar
+*.var
+*.ear
+
+*.xls
+*.xlsx
+*.docx
+*.bin
